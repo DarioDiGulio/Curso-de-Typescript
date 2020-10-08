@@ -1,0 +1,14 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ejercicio.js",
+    "scripts": {
+      "start": "tsc ejercicio.ts && node ejercicio.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": { }
+  }
+  
